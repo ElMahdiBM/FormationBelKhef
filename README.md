@@ -1,10 +1,10 @@
 # FormationBelKhef
 معلومات - نصائح - مقالات 
 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>FORMATION BELKHEF</title>
+
 </head>
 <body>
 
